@@ -12,12 +12,12 @@ BMI = (weight * 703) / (height * height)
 
 Categorizes BMI results into:
 
-Underweight
-Normal weight
-Overweight
-Obese
-Severely Obese
-Morbidly Obese
+Underweight,
+Normal weight,
+Overweight,
+Obese,
+Severely Obese,
+Morbidly Obese,
 
 Requirements:
 Python 
