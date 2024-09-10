@@ -26,10 +26,15 @@ Jupyter Notebook.
 BMI Categories:
 
 Underweight: BMI < 18.5
+
 Normal weight: BMI 18.5 – 24.9
+
 Overweight: BMI 25 – 29.9
+
 Obese: BMI 30 – 34.9
+
 Severely Obese: BMI 35 – 39.9
+
 Morbidly Obese: BMI ≥ 40
 
 Note:
