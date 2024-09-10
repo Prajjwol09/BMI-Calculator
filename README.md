@@ -17,11 +17,11 @@ Normal weight,
 Overweight,
 Obese,
 Severely Obese,
-Morbidly Obese,
+Morbidly Obese.
 
 Requirements:
-Python 
-Jupyter Notebook
+Python, 
+Jupyter Notebook.
 
 BMI Categories:
 
